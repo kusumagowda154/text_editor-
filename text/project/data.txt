@@ -1,0 +1,3 @@
+Welcome to C Text Editor
+hiiThis is the second line.
+Learning linked lists is useful.
